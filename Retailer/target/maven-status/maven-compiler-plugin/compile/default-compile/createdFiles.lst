@@ -1,0 +1,7 @@
+com\Retail\Retailer\Controller\RetailerController.class
+com\Retail\Retailer\Service\RetailerService.class
+service\RetailerService.class
+com\Retail\Retailer\Model\CustomerPoints.class
+com\Retail\Retailer\RetailerApplication.class
+com\Retail\Retailer\Service\RewardPointsCalculator.class
+com\Retail\Retailer\Model\Transaction.class
